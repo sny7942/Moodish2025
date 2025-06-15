@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.2",
+    "@sentry/react-native": "^6.13.1",
+    "axios": "^1.9.0",
+    "expo": "^53.0.0",
+    "expo-image-picker": "~16.1.4",
+    "expo-splash-screen": "~0.30.8",
+    "expo-text-recognition": "^0.1.1",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.12.1",
+    "react-native": "^0.73.0",
+    "sentry-expo": "^7.2.0"
+  }
+}
